@@ -19,8 +19,8 @@
     <td> <div align=center> <b>오지우</b> </div> </td>
   </tr>
   <tr>
-    <td> <img alt="https://github.com/Daw-ny/2023_Upstage_01st_Proj/assets/76687996/6522611f-8670-47be-8414-5b1e2563bc78" src ="" width="200" height="300"/> </td>
-    <td> <img alt="https://github.com/Daw-ny/2023_Upstage_01st_Proj/assets/76687996/ed7442a2-126b-415c-9a23-50f3845a924f" src ="" width="200" height="300"/> </td>
+    <td> <img alt="Github" src ="https://github.com/Daw-ny/2023_Upstage_01st_Proj/assets/76687996/6522611f-8670-47be-8414-5b1e2563bc78" width="200" height="300"/> </td>
+    <td> <img alt="Github" src ="https://github.com/Daw-ny/2023_Upstage_01st_Proj/assets/76687996/ed7442a2-126b-415c-9a23-50f3845a924f" width="200" height="300"/> </td>
   </tr>
   <tr>
     <td> <div align=center> <a href="https://github.com/Daw-ny"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
